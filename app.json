@@ -8,4 +8,5 @@
   "addons": [
     "heroku-postgresql"
   ]
+  "expo": { "sdkVersion": "18.0.0" }
 }
